@@ -5,7 +5,7 @@
 
     <StackLayout>
         <Frame BackgroundColor="#2196F3" Padding="15" CornerRadius="0">
-            <Label Text="Reporte de notas" HorizontalTextAlignment="Center" TextColor="DarkBlue" FontSize="25"/>
+            <Label Text="Reporte de notas" HorizontalTextAlignment="Center" TextColor="DarkBlue" FontSize="20"/>
         </Frame>
         <Label x:Name="lblUsuarioC"/>
         <Label Text="Parcial 1" HorizontalTextAlignment="Center" TextColor="DarkBlue" FontSize="20"/>
